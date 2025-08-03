@@ -44,7 +44,7 @@ File > Open > Select the project directory
 
 ---
 
-### Drill Dropdown (Before Selection)
+### Drill Dropdown 
 ![Drill Spinner Dropdown](assets/screenshot_main.jpeg)
 
 ---
