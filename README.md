@@ -18,24 +18,21 @@ An Android app that allows users to select from a list of drills and visualise a
 - Kotlin
 - Android Studio
 - ARCore
-- Sceneform (AR rendering)
 - Custom Spinner Adapter
 - XML-based layouts
 
-##  Getting Started
-
-1. **Clone the repository**  
-
-<pre> <code> git clone https://github.com/your-username/ar-drill-selector.git </code> </pre>
- <pre> <code> cd ar-drill-selector </code> </pre>
-
-
-2. **Open in Android Studio**  
-File > Open > Select the project directory
 
 3. **Build & Run**  
-- Ensure your physical device supports ARCore
-- Connect your device via USB and click **Run**
+Click the link below to download the debug APK and test it on an Android phone (ARCore supported):
+
+👉 [Download APK from Google Drive](https://drive.google.com/file/d/1fOg_jmSmHLrbaV0IWI5kUhEv_us51MH1/view?usp=drive_link)
+
+### ⚠️ Installation Instructions
+- Open the link on your Android device
+- Download the APK
+- Go to **Downloads**, tap the file
+- If prompted, **allow unknown sources**
+- Install and launch
 
 ## 📷 Screenshots
 
