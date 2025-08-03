@@ -2,7 +2,7 @@
 
 An Android app that allows users to select from a list of drills and visualise a virtual drill marker in Augmented Reality using ARCore and Sceneform.
 
-## 📱 Features
+##  Features
 
 - Dropdown menu to select one of three drills
 - Contextual information for each drill, including:
@@ -13,7 +13,7 @@ An Android app that allows users to select from a list of drills and visualise a
 - AR screen with a virtual red cube marker representing the selected drill
 - Reset and Back to Menu buttons on the AR screen
 
-## 🛠 Built With
+##  Built With
 
 - Kotlin
 - Android Studio
@@ -22,7 +22,7 @@ An Android app that allows users to select from a list of drills and visualise a
 - Custom Spinner Adapter
 - XML-based layouts
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**  
 
@@ -40,12 +40,12 @@ File > Open > Select the project directory
 ## 📷 Screenshots
 
 ### Main Drill Selection Screen
-![Main Drill Screen](assets/screenshot_main.jpeg)
+![Main Drill Screen](assets/screenshot_spinner.jpeg)
 
 ---
 
 ### Drill Dropdown (Before Selection)
-![Drill Spinner Dropdown](assets/screenshot_spinner.jpeg)
+![Drill Spinner Dropdown](assets/screenshot_main.jpeg)
 
 ---
 
@@ -74,13 +74,13 @@ File > Open > Select the project directory
 </pre>
 
 
-## ✅ Requirements
+##  Requirements
 
 - Android 7.0+ (Nougat) and ARCore-compatible device
 - Android Studio Arctic Fox or later
 - Internet access for downloading dependencies
 
 
-## 📄 License
+##  License
 
 This project is for academic/demonstration purposes. For commercial use, please modify accordingly and comply with ARCore and Sceneform licensing.
