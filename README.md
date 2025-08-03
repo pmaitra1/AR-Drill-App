@@ -1,6 +1,6 @@
 # AR Drill Selector
 
-An Android app that allows users to select from a list of drills and visualise a virtual drill marker in Augmented Reality using ARCore and Sceneform.
+An Android app that allows users to select from a list of drills and visualise a virtual drill marker in Augmented Reality using ARCore.
 
 ##  Features
 
