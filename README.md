@@ -22,7 +22,8 @@ An Android app that allows users to select from a list of drills and visualise a
 - XML-based layouts
 
 
-3. **Build & Run**  
+##  Download & Test the APK
+
 Click the link below to download the debug APK and test it on an Android phone (ARCore supported):
 
 👉 [Download APK from Google Drive](https://drive.google.com/file/d/1fOg_jmSmHLrbaV0IWI5kUhEv_us51MH1/view?usp=drive_link)
@@ -34,7 +35,7 @@ Click the link below to download the debug APK and test it on an Android phone (
 - If prompted, **allow unknown sources**
 - Install and launch
 
-## 📷 Screenshots
+## Screenshots
 
 ### Main Drill Selection Screen
 ![Main Drill Screen](assets/screenshot_spinner.jpeg)
