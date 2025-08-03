@@ -28,7 +28,7 @@ Click the link below to download the debug APK and test it on an Android phone (
 
 👉 [Download APK from Google Drive](https://drive.google.com/file/d/1fOg_jmSmHLrbaV0IWI5kUhEv_us51MH1/view?usp=drive_link)
 
-### ⚠️ Installation Instructions
+### Installation Instructions
 - Open the link on your Android device
 - Download the APK
 - Go to **Downloads**, tap the file
