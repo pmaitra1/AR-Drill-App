@@ -26,7 +26,7 @@ An Android app that allows users to select from a list of drills and visualise a
 
 Click the link below to download the debug APK and test it on an Android phone (ARCore supported):
 
-👉 [Download APK from Google Drive](https://drive.google.com/file/d/1fOg_jmSmHLrbaV0IWI5kUhEv_us51MH1/view?usp=drive_link)
+👉 [Download APK from Google Drive](https://github.com/pmaitra1/AR-Drill-App/releases/tag/v1.0)
 
 ### Installation Instructions
 - Open the link on your Android device
