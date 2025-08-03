@@ -1,0 +1,50 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <fragment
+        android:id="@+id/arFragment"
+        android:name="com.google.ar.sceneform.ux.ArFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <TextView
+        android:id="@+id/instructionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tap on a flat surface to place the drill marker"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:background="#80000000"
+        android:padding="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+
+    <LinearLayout
+        android:id="@+id/buttonContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp">
+
+        <Button
+            android:id="@+id/resetButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reset" />
+
+        <Button
+            android:id="@+id/backButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back to Menu"
+            android:layout_marginStart="16dp"/>
+    </LinearLayout>
+</RelativeLayout>

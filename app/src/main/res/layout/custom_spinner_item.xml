@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:paddingStart="12dp"
+    android:paddingEnd="12dp"
+    android:gravity="center_vertical"
+    android:background="@drawable/spinner_background">
+
+    <TextView
+        android:id="@+id/spinnerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0B3C49"
+        android:textSize="16sp"
+        android:fontFamily="sans-serif" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/spinnerIcon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_arrow_down"
+        android:tint="#0B3C49" />
+</RelativeLayout>
